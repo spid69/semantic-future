@@ -1,0 +1,12 @@
+{
+  "name": "future",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "semantic": "semantic-ui#^2.2.10"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
